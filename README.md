@@ -1,7 +1,7 @@
-# File Link Fetcher
+# File Type Fetcher
 
 ## Overview
-The File Link Fetcher is a Go script designed to extract and collect file links from specified target URLs. The script can be used to identify and list different types of files (e.g., .js, .json, .env, .jsx) present on web pages. The script can also download the identified files to a specified directory. This tool can be useful for bug bounters, pentesters, developers or web administrators to quickly identify and manage files on web servers and web sites.
+The File Type Fetcher is a Go script designed to extract and collect file links from specified target URLs. The script can be used to identify and list different types of files (e.g., .js, .json, .env, .jsx) present on web pages. The script can also download the identified files to a specified directory. This tool can be useful for bug bounters, pentesters, developers or web administrators to quickly identify and manage files on web servers and web sites.
 
 ## Features
 - Extract file links from specified URLs.
